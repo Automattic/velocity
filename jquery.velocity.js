@@ -3332,7 +3332,7 @@ Velocity's structure:
             Velocity.animate(this, propertiesMap, opts);
         };
     });
-})((window.jQuery || window.Zepto || window), window, document);
+})(require('./velocity.jquery-shim'), window, document);
 
 /******************
    Known Issues

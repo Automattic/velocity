@@ -25,14 +25,7 @@
   ],
   "main": "jquery.velocity.js",
   "repository": "julianshapiro/velocity",
-  "files": [
-    "jquery.velocity.js",
-    "jquery.velocity.min.js",
-    "velocity.ui.js",
-    "velocity.ui.min.js"
-  ],
   "dependencies": {
-    "jquery": ">= 1.4.3"
   },
   "devDependencies": {
     "grunt": "^0.4.4",
